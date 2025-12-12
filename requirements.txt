@@ -1,0 +1,6 @@
+streamlit
+finance-datareader
+pandas
+plotly
+openpyxl
+xlsxwriter
